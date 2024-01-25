@@ -20,6 +20,11 @@ james@evrytania.com, or check the bugtracker on github:
   https://github.com/Evrytania/LTE-Cell-Scanner/issues
 
 ------
+Quick dependencies note (not the only dependency, but this one is often missing):
+------
+  sudo apt-get install libitpp-dev
+
+------
 Quick build instructions:
 ------
   cd LTE-Cell-Scanner
