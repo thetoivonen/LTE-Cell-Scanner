@@ -24,6 +24,8 @@ FIND_LIBRARY(ITPP_LIBRARY_NORMAL
   /usr/lib64
   /usr/lib
   /usr/local/lib
+  /usr/lib/x86_64-linux-gnu
+  /usr/lib/arm-linux-gnueabihf
   NO_DEFAULT_PATH
 )
 
