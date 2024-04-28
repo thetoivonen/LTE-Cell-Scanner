@@ -22,7 +22,7 @@ james@evrytania.com, or check the bugtracker on github:
 ------
 Quick dependencies note (not the only dependency, but this one is often missing):
 ------
-  sudo apt-get install libitpp-dev
+  sudo apt-get install libitpp-dev libncurses5-dev
 
 ------
 Quick build instructions:
